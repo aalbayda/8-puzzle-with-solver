@@ -2,7 +2,7 @@
 
 8-puzzle slider game with solvers that use either BFS, DFS, or A\* search.
 
-Modify the `puzzle.in` file to start with a custom board. The game will display each tile in the same order they appear in the input file. For example, a sovled state will look like this:
+Modify the `puzzle.in` file to start with a custom board. The game will display each tile in the same order they appear in the input file. For example, a solved state will look like this:
 
 ```
 1 2 3
