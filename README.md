@@ -12,6 +12,6 @@ Modify the `puzzle.in` file to start with a custom board. The game will display 
 
 # References
 
-Al Sweigart's _Making Games with Python and PyGame_
-_Detecting unsolvable boards_ from https://www.cs.princeton.edu/courses/archive/spring21/cos226/assignments/8puzzle/specification.php
-CS50's _Introduction to AI_ Week 0 lecture from https://cdn.cs50.net/ai/2020/spring/lectures/0/lang/en/lecture0.txt
+* Al Sweigart's _Making Games with Python and PyGame_
+* _Detecting unsolvable boards_ from https://www.cs.princeton.edu/courses/archive/spring21/cos226/assignments/8puzzle/specification.php
+* CS50's _Introduction to AI_ Week 0 lecture from https://cdn.cs50.net/ai/2020/spring/lectures/0/lang/en/lecture0.txt
